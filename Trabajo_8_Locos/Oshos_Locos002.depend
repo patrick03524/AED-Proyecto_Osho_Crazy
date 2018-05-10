@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1525931641 source:d:\programming\c++\oshos_locos002\main.cpp
+	"Datos.h"
+	"Game.h"
+
+1525923587 source:d:\programming\c++\oshos_locos002\src\datos.cpp
+	"Datos.h"
+
+1525923562 d:\programming\c++\oshos_locos002\include\datos.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+
+1525828446 source:d:\programming\c++\oshos_locos002\src\card.cpp
+	"Card.h"
+
+1525931604 d:\programming\c++\oshos_locos002\include\card.h
+	"Datos.h"
+
+1525831823 source:d:\programming\c++\oshos_locos002\src\deck.cpp
+	"Deck.h"
+
+1525932463 d:\programming\c++\oshos_locos002\include\deck.h
+	"Card.h"
+
+1525931685 source:d:\programming\c++\oshos_locos002\src\game.cpp
+	"Game.h"
+
+1525931893 d:\programming\c++\oshos_locos002\include\game.h
+	"Datos.h"
+	"Deck.h"
+	"Player.h"
+
+1525923878 d:\programming\c++\oshos_locos002\include\variables.h
+	"Datos.h"
+
+1525923878 source:d:\programming\c++\oshos_locos002\src\variables.cpp
+	"Variables.h"
+
+1525931377 d:\programming\c++\oshos_locos002\include\player.h
+	"Datos.h"
+	"Card.h"
+	"Lista.h"
+
+1525929927 source:d:\programming\c++\oshos_locos002\src\lista.cpp
+	"Lista.h"
+
+1525932864 d:\programming\c++\oshos_locos002\include\lista.h
+	"Datos.h"
+	"Card.h"
+
+1525931576 source:d:\programming\c++\oshos_locos002\src\player.cpp
+	"Player.h"
+
